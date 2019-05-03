@@ -1,0 +1,39 @@
+{
+  "_from": "huiquanyou_hello",
+  "_id": "huiquanyou_hello@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-IRr9VZeKaL04jAqModI29K3m14lYP6MqACX4nLY13+h2LYvKpPC4SnJNjrs0oaWEWLe/y8wdwzKvyLGVfI2fjw==",
+  "_location": "/huiquanyou_hello",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "huiquanyou_hello",
+    "name": "huiquanyou_hello",
+    "escapedName": "huiquanyou_hello",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/huiquanyou_hello/-/huiquanyou_hello-1.0.2.tgz",
+  "_shasum": "671ecdd534726a356490fd6e84bbc37439bd7f77",
+  "_spec": "huiquanyou_hello",
+  "_where": "C:\\",
+  "author": "",
+  "bin": {
+    "noob": "./new.js"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "huiquanyou_hello",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
